@@ -2,11 +2,14 @@
   "name": "jueun-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jueuni.github.io/portfolio",
   "dependencies": {
     "animated": "^0.2.2",
+    "gh-pages": "^2.0.1",
     "node-fetch": "^2.3.0",
     "react": "^16.8.4",
     "react-anchor-link-smooth-scroll": "^1.0.12",
+    "react-app-polyfill": "^0.2.2",
     "react-dom": "^16.8.4",
     "react-motion-drawer": "^3.1.0",
     "react-scripts": "2.1.8",
@@ -14,6 +17,8 @@
     "semantic-ui-react": "^0.86.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

@@ -50,8 +50,8 @@ class Menu extends Component {
         >
           <ul>
             <li><AnchorLink onClick={this.onClose} href="#welcome">Home</AnchorLink></li>
-            <li><AnchorLink onClick={this.onClose} href="#info">About me</AnchorLink></li>
-            <li><AnchorLink onClick={this.onClose} href="#worklist">work</AnchorLink></li>
+            <li><AnchorLink onClick={this.onClose} href="#info">About Me</AnchorLink></li>
+            <li><AnchorLink onClick={this.onClose} href="#worklist">Work</AnchorLink></li>
           </ul>
         </Drawer>
       </div>
