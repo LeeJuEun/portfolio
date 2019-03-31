@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "7803a327f4d0589eb760",
+    "revision": "08fd05e00a133052a4a9",
     "url": "/portfolio/static/css/main.e2bc22ad.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/tree-4041156_1920.35958242.jpg"
   },
   {
-    "revision": "733d045c22436af67f74",
-    "url": "/portfolio/static/js/2.011dec4f.chunk.js"
+    "revision": "3207f30775a9a398db0f",
+    "url": "/portfolio/static/js/2.1543ab6a.chunk.js"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "7803a327f4d0589eb760",
-    "url": "/portfolio/static/js/main.31d3b420.chunk.js"
+    "revision": "08fd05e00a133052a4a9",
+    "url": "/portfolio/static/js/main.2f0b6ae4.chunk.js"
   },
   {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
@@ -84,11 +84,11 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "733d045c22436af67f74",
+    "revision": "3207f30775a9a398db0f",
     "url": "/portfolio/static/css/2.ed644178.chunk.css"
   },
   {
-    "revision": "2f59d9ca4ed36335f59f552c0f2f7455",
+    "revision": "d0673cb83f6b8c3ec881d337ed449b2b",
     "url": "/portfolio/index.html"
   }
 ];
