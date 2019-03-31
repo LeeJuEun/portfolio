@@ -1,0 +1,15 @@
+.home {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9;
+}
+
+.home a.scroll {
+  color: #8dbf99;
+}
+
+.home i.icon, .home i.icons {
+  font-size: 2em;
+  padding:10px;
+}

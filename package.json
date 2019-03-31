@@ -3,9 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "animated": "^0.2.2",
+    "node-fetch": "^2.3.0",
     "react": "^16.8.4",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-motion-drawer": "^3.1.0",
+    "react-scripts": "2.1.8",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.86.0"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background: url('./tree-4041156_1920.jpg') 50% 0 no-repeat;
+  background-attachment: fixed;
+  margin-bottom: 220px;
+  overflow: hidden;
 }
 
 .App-logo {
