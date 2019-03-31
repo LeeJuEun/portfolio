@@ -1,0 +1,251 @@
+[
+  {
+    "title": "문장수집",
+    "img": "./work1.png",
+    "viewport": "PC / MOBILE",
+    "iesupport": "IE6+ (cross browsing)",
+    "descriptionHTML": "인터넷 교보문고의 새로운 서비스로, 마음에 드는 문장을 기록하는 서비스입니다. 안내사항 레이어, 글쓰기 팝업, 독서기록페이지를 포함하고 있습니다. 하드코딩으로 제작되었으며, 모든 IE버전에서 호환될수있도록  jQuery1.4 버전으로 제작되었습니다. 특히 문장수집왕 카테고리는 롤링으로 한 사람이 작성한 문장을 모두 확인할수있습니다.    모바일버전의 하단에는 각각의의 주제별 베스트문장들을 탭으로 분리시켜놓았으며 기기별 기본 UX를 최대한 유지하고 어색해보이지않게 하기 위해 CSS3의 media query를 적절히 사용하였습니다.",
+    "pc": "http://www.kyobobook.co.kr/killingpart/mainCategory.laf",
+    "mobile": "http://mobile.kyobobook.co.kr/killingPart/main",
+    "skills": [
+      {
+        "category": "HTML",
+        "keywords": [
+          {
+            "word": "HTML5",
+            "link": ""
+          },
+          {
+            "word": "HTML5, ARIA",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "category": "CSS",
+        "keywords": [
+          {
+            "word": "CSS3(media query)",
+            "link": ""
+          },
+          {
+            "word": "CSS sprites",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "category": "JS",
+        "keywords": [
+          {
+            "word": "JavaScript",
+            "link": ""
+          },
+          {
+            "word": "jQuery",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "맞춤 추천 Picks",
+    "img": "./work2.png",
+    "viewport": "PC / MOBILE",
+    "iesupport": "IE6+ (cross browsing)",
+    "descriptionHTML": "인터넷 교보문고의 개인 맞춤 추천 서비스입니다. 이미지가 많이 들어가는 서비스이기 때문에 빠른 웹브라우징을 위해 CSS sprites 기법을 이용하여 트래픽을 줄였습니다. pc버전의 평가늘리기같은경우는 레이어와 롤링을 이용하여 사용자가 한번에 여러 책들을 평가 할 수 있도록 하였습니다. 모바일버전은 탭을 이용하여 client side rendering 디자인에 맞춰서 구현하였습니다.",
+    "pc": "http://www.kyobobook.co.kr/picks/soulmatePicks.laf",
+    "mobile": "http://mobile.kyobobook.co.kr/?bookChatIndex=1",
+    "skills": [
+      {
+        "category": "HTML",
+        "keywords": [
+          {
+            "word": "HTML5",
+            "link": ""
+          },
+          {
+            "word": "HTML5, ARIA",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "category": "CSS",
+        "keywords": [
+          {
+            "word": "CSS3(media query)",
+            "link": ""
+          },
+          {
+            "word": "CSS sprites",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "category": "JS",
+        "keywords": [
+          {
+            "word": "JavaScript",
+            "link": ""
+          },
+          {
+            "word": "jQuery",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "트렌드샵",
+    "img": "./work3.png",
+    "viewport": "PC / MOBILE",
+    "iesupport": "IE6+ (cross browsing)",
+    "descriptionHTML": "인터넷 교보문고의 개인 맞춤 추천 서비스입니다. 이미지가 많이 들어가는 서비스이기 때문에 빠른 웹브라우징을 위해 CSS sprites 기법을 이용하여 트래픽을 줄였습니다. pc버전의 평가늘리기같은경우는 레이어와 롤링을 이용하여 사용자가 한번에 여러 책들을 평가 할 수 있도록 하였습니다. 모바일버전은 탭을 이용하여 client side rendering 디자인에 맞춰서 구현하였습니다.",
+    "pc": "http://www.kyobobook.co.kr/trendshop/main.laf",
+    "mobile": "http://mobile.kyobobook.co.kr/?bookChatIndex=5&tab=3",
+    "skills": [
+      {
+        "category": "HTML",
+        "keywords": [
+          {
+            "word": "HTML5",
+            "link": ""
+          },
+          {
+            "word": "ARIA",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "category": "CSS",
+        "keywords": [
+          {
+            "word": "CSS3",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "category": "JS",
+        "keywords": [
+          {
+            "word": "JavaScript",
+            "link": ""
+          },
+          {
+            "word": "jQuery",
+            "link": ""
+          },
+          {
+            "word": "animate",
+            "link": ""
+          },
+          {
+            "word": "RollingSilde",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "1969 반응형 이벤트 페이지",
+    "img": "./work4.png",
+    "viewport": "PC / MOBILE",
+    "iesupport": "IE6+ (cross browsing)",
+    "descriptionHTML": "jquery.fullPage.js를 이용하여 반응형 웹으로 제작한 이벤트 페이지입니다. anchor smooth scrolling과 transition 효과 등을 사용하여 이벤트가 더욱 효과적으로 보이게 구현하였습니다.",
+    "pcmobile": "http://www.kyobobook.co.kr/prom/2019/book/190115_1969.jsp",
+    "skills": [
+      {
+        "category": "HTML",
+        "keywords": [
+          {
+            "word": "HTML5",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "category": "CSS",
+        "keywords": [
+          {
+            "word": "CSS3",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "category": "JS",
+        "keywords": [
+          {
+            "word": "JavaScript",
+            "link": ""
+          },
+          {
+            "word": "jQuery",
+            "link": ""
+          },
+          {
+            "word": "fullPage.js",
+            "link": "#"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "TVTalk",
+    "img": "./work5.png",
+    "viewport": "PC / MOBILE",
+    "iesupport": "IE8+ (cross browsing)",
+  "descriptionHTML": "드라마를 보며 실시간 채팅을 하는 모바일 웹 서비스입니다. 웹퍼블리싱 및 프론트엔드 개발의 일부를 맡았습니다. jQuery2.1.1 버전과 Google materialize를 사용하였고, 백엔드 개발자와는 Git, 디자이너와는 Zeplin을 이용하여 협업하였습니다.",
+    "pcmobile": "http://tvta1k.herokuapp.com/",
+    "skills": [
+      {
+        "category": "HTML",
+        "keywords": [
+          {
+            "word": "HTML5",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "category": "CSS",
+        "keywords": [
+          {
+            "word": "CSS3",
+            "link": ""
+          },
+          {
+            "word": "Google materialize",
+            "link": ""
+          },
+          {
+            "word": "masking",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "category": "JS",
+        "keywords": [
+          {
+            "word": "JavaScript",
+            "link": ""
+          },
+          {
+            "word": "jQuery",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  }
+  
+]
